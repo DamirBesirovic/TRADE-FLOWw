@@ -29,7 +29,7 @@ const Navbar: React.FC = () => {
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-2">
             <Building2 className="h-8 w-8 text-blue-600" />
-            <span className="text-xl font-bold text-gray-900">OTSupply</span>
+            <span className="text-xl font-bold text-gray-900">TRADE-FLOW</span>
           </Link>
 
           {/* Navigation Links */}
