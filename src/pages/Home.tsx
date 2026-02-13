@@ -40,10 +40,10 @@ const Home: React.FC = () => {
           <div className="text-center">
             <h1 className="text-4xl md:text-6xl font-bold mb-6">
               Vaš partner za
-              <span className="block text-blue-200">građevinski materijal</span>
+              <span className="block text-blue-200">konstrukcioni materijal</span>
             </h1>
             <p className="text-xl md:text-2xl mb-8 text-blue-100 max-w-3xl mx-auto">
-              Pronađite najbolje ponude za građevinski materijal u Srbiji.
+              Pronađite najbolje ponude za konstrukcioni materijal u Srbiji.
               Povezujemo kupce i prodavce za uspešno poslovanje.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -71,10 +71,10 @@ const Home: React.FC = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
-              Zašto izabrati OTSupply?
+              Zašto birate Trade-Flow?
             </h2>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-              Pružamo sigurnu i efikasnu platformu za trgovinu građevinskim
+              Pružamo pouzdanu i efikasno-isplatljivu platformu za razmenjivanje konstrukcionim
               materijalom
             </p>
           </div>
@@ -89,7 +89,7 @@ const Home: React.FC = () => {
               </h3>
               <p className="text-gray-600">
                 Pronađite sve što vam je potrebno za vaš građevinski projekat -
-                od osnovnih materijala do specijalizovane opreme.
+                od osnovnih materijala do specijalizovane opreme za rad na vasem domu.
               </p>
             </div>
 
@@ -115,7 +115,7 @@ const Home: React.FC = () => {
               </h3>
               <p className="text-gray-600">
                 Vaša sigurnost je naš prioritet. Koristimo najnovije tehnologije
-                za zaštitu vaših podataka.
+                za zaštitu vaših podataka na jednom mestu.
               </p>
             </div>
           </div>
@@ -209,7 +209,7 @@ const Home: React.FC = () => {
             Spremni da počnete?
           </h2>
           <p className="text-xl mb-8 text-blue-100">
-            Pridružite se hiljadama zadovoljnih korisnika na OTSupply platformi
+            Pridružite se hiljadama zadovoljnih korisnika na trade-flow platformi
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link
