@@ -10,7 +10,7 @@ const Footer: React.FC = () => {
           <div className="col-span-1 md:col-span-2">
             <div className="flex items-center space-x-2 mb-4">
               <Building2 className="h-8 w-8 text-blue-400" />
-              <span className="text-xl font-bold">OTSupply</span>
+              <span className="text-xl font-bold">TRADE-FLOW</span>
             </div>
             <p className="text-gray-300 mb-4 max-w-md">
               Vaša pouzdana platforma za trgovinu građevinskim materijalom u Srbiji. 
@@ -19,7 +19,7 @@ const Footer: React.FC = () => {
             <div className="flex space-x-4">
               <div className="flex items-center space-x-2 text-sm text-gray-300">
                 <MapPin className="h-4 w-4" />
-                <span>Srbija</span>
+                <span>SRBIJA</span>
               </div>
             </div>
           </div>
@@ -52,18 +52,18 @@ const Footer: React.FC = () => {
             <ul className="space-y-2">
               <li className="flex items-center space-x-2 text-gray-300">
                 <Mail className="h-4 w-4" />
-                <span>info@otsupply.rs</span>
+                <span>info@tradef.rs</span>
               </li>
               <li className="flex items-center space-x-2 text-gray-300">
                 <Phone className="h-4 w-4" />
-                <span>+381 11 123 4567</span>
+                <span>+381 42 155 4255</span>
               </li>
             </ul>
           </div>
         </div>
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-          <p>&copy; 2024 OTSupply. Sva prava zadržana.</p>
+          <p>&copy; 2026 trade-flow. Sva prava zadržana.</p>
         </div>
       </div>
     </footer>
