@@ -146,7 +146,7 @@ const Register: React.FC = () => {
             Izaberite tip naloga
           </h2>
           <p className="mt-2 text-center text-sm text-gray-600">
-            Kako želite da koristite OTSupply platformu?
+            Kako želite da koristite Trade-Flow platformu?
           </p>
         </div>
 
